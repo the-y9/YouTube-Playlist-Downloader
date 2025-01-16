@@ -19,6 +19,7 @@ You can install `pytube` using pip:
 ```
 pip install pytube
 ```
+Note - May use `pytubefix` instead of `pytube`
 
 ## Usage
 1. **Set Playlist URL:** Modify the playlist_url variable in the script to point to your desired YouTube playlist.
